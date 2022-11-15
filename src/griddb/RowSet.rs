@@ -14,7 +14,7 @@
     limitations under the License.
 */
 
-extern crate konektor_db-sys as ffi;
+extern crate konektor_db_sys as ffi;
 
 use crate::griddb::AggregationResult::*;
 use crate::griddb::Const::*;
