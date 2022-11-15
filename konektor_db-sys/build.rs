@@ -28,7 +28,7 @@ fn main() {
     let bindings = bindgen::Builder::default()
         // The input header we would like to generate
         // bindings for.
-        .header("gridstore.h")
+        .header("include/gridstore.h")
         .allowlist_function("gs.*")
         .allowlist_type("GS.*")
         .rustified_enum("GS.*")
