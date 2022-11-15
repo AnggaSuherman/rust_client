@@ -1,7 +1,11 @@
 [package]
-name = "griddb_rust"
+name = "konektor_db"
 version = "0.5.0"
 edition = "2021"
+license = "Apache-2.0"
+description = "db konektor"
+repository = "https://github.com/AnggaSuherman/rust_client"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
