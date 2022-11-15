@@ -14,7 +14,7 @@
     limitations under the License.
 */
 
-extern crate griddb_sys as ffi;
+extern crate konektor_db-sys as ffi;
 
 use chrono::{DateTime, Utc};
 use std::ptr;

@@ -14,7 +14,7 @@
     limitations under the License.
 */
 
-extern crate griddb_sys as ffi;
+extern crate konektor_db-sys as ffi;
 
 use crate::griddb::Container::*;
 use crate::griddb::ContainerInfo::*;
